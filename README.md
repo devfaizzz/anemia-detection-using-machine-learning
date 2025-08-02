@@ -181,18 +181,6 @@ Then open the app in your browser at `http://127.0.0.1:5000/`
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eae5-094f-4b20-a5bf-2c48260a43f5.png" width="30" /> **Live Deployment** ☁️ **Deployed on Render**
-
-You can try the deployed version of the application here 🚀:
-
-[**Anemia Detection App**](https://anemia-detection-46ji.onrender.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
----
-
-</div>
-
 ### **Outcome Variable Explanation:**
 
 The **outcome variable** in the dataset indicates the final diagnosis or classification for each patient. The outcome is binary, with two possible values:
