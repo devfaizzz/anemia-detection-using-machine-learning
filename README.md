@@ -127,7 +127,7 @@ Directory structure:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone <repository_url>
-cd anemia-detection
+cd anemia-detection-using-machine-learning
 ```
 
 ### 2️⃣ Install Dependencies
